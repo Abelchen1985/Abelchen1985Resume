@@ -8,24 +8,24 @@ version: 2
 # Personal info
 name: Weiyuan(Abel) Chen
 title: Data Scientist
-email: abelchen1985@email.co.uk
+email: abelchen1985@gmail.com
 website: https://abelchen1985.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
